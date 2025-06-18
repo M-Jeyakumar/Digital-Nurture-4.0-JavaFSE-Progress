@@ -1,4 +1,4 @@
-package Week_1.Algorithms_Data_Structures;
+package Week_1.Algorithms_Data_Structures.Exercise_2_E_commerce_Platform_Search_Function;
 
 class Product {
     int productId;

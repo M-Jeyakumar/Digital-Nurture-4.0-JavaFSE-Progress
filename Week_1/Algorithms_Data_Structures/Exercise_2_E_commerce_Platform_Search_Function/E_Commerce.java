@@ -1,4 +1,4 @@
-package Week_1.DSA;
+package Week_1.Algorithms_Data_Structures;
 
 class Product {
     int productId;

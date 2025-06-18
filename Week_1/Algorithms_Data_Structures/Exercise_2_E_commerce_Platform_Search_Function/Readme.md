@@ -22,5 +22,3 @@ Final Analysis:
 * Because it will process so quickly and find the required products in minimal amount of time.
 * So it will reduce the time for the user to wait for the product search operation.
 * And it's time complexity is also O(log N)
-
-## Exercise 7 - Financial Forecasting

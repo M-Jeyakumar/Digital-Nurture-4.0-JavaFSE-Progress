@@ -1,5 +1,5 @@
 # Exercise 1:
-
+![output_ex1_1.png](LibraryManagementSystem/src/main/Outputs/output_ex1_1.png)
 ![output_ex1.png](LibraryManagementSystem/src/main/Outputs/output_ex2.png)
 
 # Exercise 2:
